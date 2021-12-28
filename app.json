@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Login-App",
+    "slug": "Login-App",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/loging1.svg",
+    "splash": {
+      "image": "./assets/loging1.svg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/loging1.svg",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
